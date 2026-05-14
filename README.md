@@ -21,4 +21,4 @@ Transformar o terminal Linux em algo próximo do Warp:
 ·	otimizações de performance
 ·	arquitetura recomendada
 
-Attention: This is a working 
+Attention: This project is not complete.
